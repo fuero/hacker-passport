@@ -34,3 +34,4 @@ Please submit a PR **only** if you are authorized by the logo's rights owner to 
 |**Hackerspace Name**|**Hackerspace Logo**|**License acknowledgement**|**Comment**|
 |----------------|----------------|-----------------------|-------|
 |[Sample hackerspace](www.example.com/hackerspace)|![Logo](./images/sample.svg)|[X]|[Source](https://publicdomainvectors.org/en/free-clipart/Hacker-zone/64463.html) is public domain.|
+|[/dev/lol](https://devlol.org)|![Logo](./images/devlol.svg)|[X]|[Source](https://git.devlol.org/devlol-systems/devlol-graphics/-/blob/master/logo/devlol-logo1.svg) is DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE|
