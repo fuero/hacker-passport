@@ -25,7 +25,7 @@ Please add a PR for your hackerspace's logo, containing:
 - a link to the hackerspace's logo, in SVG format in the `images/` directory
 
 By submitting the PR, you guarantee usage of the logo in the project under the
-[CC-by-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/legalcode.txt).
+[CC-by-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0).
 
 Please submit a PR **only** if you are authorized by the logo's rights owner to do so!
 
